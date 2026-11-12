@@ -7,7 +7,7 @@ I'm Krish, a Computer Science & Engineering student. Open to paid, remote fronte
 
 **Projects**  
 - [Rush Rider](https://github.com/kmt219/rushrider) - A dirt-bike browser game that turns streaming crypto price charts into rideable terrain.
-- [Prediction-Market Leaderboard](https://github.com/Sumit4201k/predicting.top) - Team-built Next.js MVP with mock-backed APIs. Contributed layouts, routes and the recent-trades UI through [three merged PRs](https://github.com/Sumit4201k/predicting.top/pulls?q=is%3Apr+author%3Akmt219+is%3Aclosed).
+- [Prediction-Market Leaderboard](https://github.com/Sumit4201k/predicting.top) - Team-built Next.js MVP with real time Web-socket APIs. Contributed layouts, routes and the recent-trades UI through [three merged PRs](https://github.com/Sumit4201k/predicting.top/pulls?q=is%3Apr+author%3Akmt219+is%3Aclosed).
 
 **Stack**  
 HTML · CSS · JavaScript · React · Next.js · TypeScript · Tailwind CSS
